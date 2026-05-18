@@ -15,7 +15,15 @@ AI-based adaptive traffic signal system using Python and OpenCV.
 ## Project Workflow
 Traffic Video → Vehicle Detection → Vehicle Counting → Adaptive Signal Timing
 
+## Future Improvements**
+Ambulance priority system,
+Multi-lane traffic analysis,
+Live CCTV integration.
+
+
+
 ## Run Project
 
 ```bash
 python3 smart_signal.py
+
