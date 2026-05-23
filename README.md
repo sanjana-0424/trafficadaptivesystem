@@ -125,16 +125,6 @@ python3 smart_signal.py
 
 ---
 
-## Change Directory
-
-```bash
-cd traffic_project
-```
-
-Used to move terminal into the project folder.
-
----
-
 ## Show Files
 
 ```bash
